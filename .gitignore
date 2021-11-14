@@ -1,0 +1,7 @@
+.idea/
+out/
+results/**
+*.tex
+*.txt
+*.class
+*.iml
